@@ -12,7 +12,8 @@
       "profile": "http://yakko.tech",
       "contributions": [
         "design",
-        "code"
+        "code",
+        "test"
       ]
     }
   ],
