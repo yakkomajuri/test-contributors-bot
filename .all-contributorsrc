@@ -14,7 +14,8 @@
         "design",
         "code",
         "test",
-        "audio"
+        "audio",
+        "bug"
       ]
     }
   ],
