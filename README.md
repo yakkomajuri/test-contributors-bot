@@ -11,7 +11,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://yakko.tech"><img src="https://avatars.githubusercontent.com/u/38760734?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yakko Majuri</b></sub></a><br /><a href="#design-yakkomajuri" title="Design">🎨</a></td>
+    <td align="center"><a href="http://yakko.tech"><img src="https://avatars.githubusercontent.com/u/38760734?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yakko Majuri</b></sub></a><br /><a href="#design-yakkomajuri" title="Design">🎨</a> <a href="https://github.com/yakkomajuri/test-contributors-bot/commits?author=yakkomajuri" title="Code">💻</a></td>
   </tr>
 </table>
 
