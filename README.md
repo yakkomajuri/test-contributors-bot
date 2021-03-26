@@ -1,4 +1,2 @@
 # test-contributors-bot
 
-
-b
